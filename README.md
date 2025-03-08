@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Nunuka74
-- 👀 I’m interested in ...computer programming
-- 🌱 I’m currently learning ...Unity
-
+-
 
 
 <!---
